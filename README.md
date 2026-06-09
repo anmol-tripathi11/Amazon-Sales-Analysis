@@ -24,23 +24,23 @@ An interactive Power BI dashboard analyzing **100,000+ rows** of Amazon sales da
 
 Dashboard View — All Filters Default
 
-(<img width="1510" height="840" alt="Amazon-Sales-Analysis-SS1" src="https://github.com/user-attachments/assets/fbdb8601-129e-4524-b027-3ba3dc661c58" />
-)
+<img width="1510" height="840" alt="Amazon-Sales-Analysis-SS1" src="https://github.com/user-attachments/assets/fbdb8601-129e-4524-b027-3ba3dc661c58" />
+
 
 Dashboard View — Filtered by Delivered Orders & Year 2024
 
-(<img width="1509" height="841" alt="Amazon-Sales-Analysis-SS2" src="https://github.com/user-attachments/assets/c365e667-f4ad-44ea-99e8-2f75c8e46a40" />
-)
+<img width="1509" height="841" alt="Amazon-Sales-Analysis-SS2" src="https://github.com/user-attachments/assets/c365e667-f4ad-44ea-99e8-2f75c8e46a40" />
+
 
 Dashboard View — Filtered by United States & Year 2024
 
-(<img width="1511" height="834" alt="Amazon-Sales-Analysis-SS3" src="https://github.com/user-attachments/assets/0ba8244f-0cef-490e-ab3b-b1469248b464" />
-)
+<img width="1511" height="834" alt="Amazon-Sales-Analysis-SS3" src="https://github.com/user-attachments/assets/0ba8244f-0cef-490e-ab3b-b1469248b464" />
+
 
 Cleaned Dataset
 
-(<img width="1907" height="1090" alt="Amazon-Sales-Analysis-Cleaned-Dataset-SS" src="https://github.com/user-attachments/assets/f06d447a-3aed-4469-97b6-065b53eb26cf" />
-)
+<img width="1907" height="1090" alt="Amazon-Sales-Analysis-Cleaned-Dataset-SS" src="https://github.com/user-attachments/assets/f06d447a-3aed-4469-97b6-065b53eb26cf" />
+
 
 ---
 
